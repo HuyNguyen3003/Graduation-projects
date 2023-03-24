@@ -5,8 +5,8 @@ nên mình sẽ làm đồ án tốt nghiệp dành cho năm cuối và readme.m
 + Thiết Kế:
 
 + Fe: reactJs
-+ state: Redux Toolkit
-+ Frameworks: React Bootstrap
++ state: Redux Toolkit, hook
++ style: React Bootstrap
 ------------------------------------------------------------
 + Be: expressJs
 + microservice
@@ -14,7 +14,7 @@ nên mình sẽ làm đồ án tốt nghiệp dành cho năm cuối và readme.m
 + testing: jest
 + services: api(Api-gateway) , product, order, cart, pay.
 + DB: mongoDB, redis, elasticSearch
-+ more : Document, Swagger, RabbitMQ , anti replay attacks API, Apache HTTP server benchmarking tool, Design Patterns(NodeJS, mongoDB), handle các bài toán khi có số người dùng tăng đột biến, anti ddos
++ more : Document, Swagger, RabbitMQ , socket.io, anti replay attacks API, Apache HTTP server benchmarking tool, Design Patterns(NodeJS, mongoDB), handle các bài toán khi có số người dùng tăng đột biến, anti ddos
 bot chat, 
 
 
