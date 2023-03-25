@@ -1,9 +1,3 @@
-+ Hi mọi người thì hiện tại mình là sinh viên năm 2 ngành công nghệ thông tin vì hiện tại cũng đang rãnh và cũng lười học thêm kiến thức mới (do học mãi mà xin đi làm không được)
-nên mình sẽ làm đồ án tốt nghiệp dành cho năm cuối và readme.md cũng sẽ như trang nhật kí viết về quá trình làm đồ án của mình.
-+ Đầu tiên là chọn làm đồ án gì thì mình theo ngành web thì auto là làm web thương mại điện tử và dưới đây là có 2 phần một là thiết kế còn 2 là quá trình code.
-----------------------------------------------------------------------------------
-+ Thiết Kế:
-
 + Fe: reactJs
 + state: Redux Toolkit, hook
 + style: React Bootstrap
@@ -16,13 +10,7 @@ nên mình sẽ làm đồ án tốt nghiệp dành cho năm cuối và readme.m
 + DB: mongoDB, redis, elasticSearch
 + more : Document, Swagger, RabbitMQ , socket.io, test performance, Optimal, Design Patterns(NodeJS, mongoDB), handle data and code,security,bot chat, ...
 ----------------------------------------------------------------------------
-![](degisn.png)
-
-
-
-
-
-
+![image](design.png)
 
 ---------------------------------------
 + Quá trình code:
