@@ -14,8 +14,9 @@ nên mình sẽ làm đồ án tốt nghiệp dành cho năm cuối và readme.m
 + testing: jest
 + services: api(Api-gateway) , product, order, cart, pay.
 + DB: mongoDB, redis, elasticSearch
-+ more : Document, Swagger, RabbitMQ , socket.io, anti replay attacks API, Apache HTTP server benchmarking tool, Design Patterns(NodeJS, mongoDB), handle các bài toán khi có số người dùng tăng đột biến, anti ddos
-bot chat, 
++ more : Document, Swagger, RabbitMQ , socket.io, test performance, Optimal, Design Patterns(NodeJS, mongoDB), handle data and code,security,bot chat, ...
+----------------------------------------------------------------------------
+![](degisn.png)
 
 
 
