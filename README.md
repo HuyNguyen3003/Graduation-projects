@@ -1,5 +1,4 @@
-* Demo 1
-+ Web ecommerce
+* Demo 1: Web ecommerce
 --------------------------------------------------
 + Fe: reactJs
 + state: Redux Toolkit, hook
